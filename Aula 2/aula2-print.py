@@ -1,0 +1,6 @@
+#  print('Olá Mundo')
+#  print("Jabez","Oriel","Rodrigues","de","Oliveira", sep='-')
+#  print("Eu sou o Milior")
+print ('825','176','070',sep='.',end='-')
+print ('18')
+print ('Qual é o seu nome?')
