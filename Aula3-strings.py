@@ -1,0 +1,5 @@
+print("Estou escrevendo uma string")
+print('Estou escrevendo uma string')
+print("Podemos variar,'utilizando' duas strings ")
+print('Assim tambem "da"')
+print("Barra invertida pode ser usada \'oi\' ")
